@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.c301.modules</groupId>
-    <artifactId>eos-plugin-starter</artifactId>
-    <name>eos-plugin-starter</name>
+    <artifactId>eos-plugin-navigation</artifactId>
+    <name>eos-plugin-navigation</name>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <description>Eos1.0 插件开发快速开始模板</description>
+    <description>一个导航插件 用于测试插件打包</description>
 
     <properties>
         <java.version>11</java.version>
