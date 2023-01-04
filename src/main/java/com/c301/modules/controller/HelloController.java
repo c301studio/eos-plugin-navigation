@@ -34,9 +34,4 @@ public class HelloController {
         return say;
     }
 
-    @GetMapping("/file")
-    public Resource hello1() {
-        return new FileSystemResource("D:/图片/EC83488719EDDFF991B94A75761DBD19.jpg");
-    }
-
 }
